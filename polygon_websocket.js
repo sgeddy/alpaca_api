@@ -2,7 +2,7 @@
 
 const WebSocket = require('ws')
 
-const APIKEY = 'AKX5PHEQDKKD1QQMEFWP'
+const APIKEY = 'PUT YOUR API KEY'
 const ws = new WebSocket('wss://alpaca.socket.polygon.io/stocks')
 
 // Connection Opened:
